@@ -1,0 +1,65 @@
+[INFO ] 2023-07-23 21:02:53.894 [http-nio-8080-exec-4] GameServlet - Name: Volvo
+[INFO ] 2023-07-23 21:02:53.904 [http-nio-8080-exec-4] QuestionAndAnswerMap - ���������� ��������: 3
+[INFO ] 2023-07-23 21:02:53.905 [http-nio-8080-exec-4] GameServlet - Current Question �� ������� ������. ������� ����� ���?
+[INFO ] 2023-07-23 21:02:55.082 [http-nio-8080-exec-5] GameServlet - Current Question �� ������ �����. ��������� �� ������ � ��������?
+[INFO ] 2023-07-23 21:02:55.380 [http-nio-8080-exec-6] GameServlet - Current Question �� �������� �� ������. �� ���?
+[INFO ] 2023-07-23 21:02:55.908 [http-nio-8080-exec-7] GameServlet - Current Question null
+[INFO ] 2023-07-23 21:05:12.954 GameServlet - Name: �������
+[INFO ] 2023-07-23 21:05:12.964 QuestionAndAnswerMap - ���������� ��������: 3
+[INFO ] 2023-07-23 21:05:12.964 GameServlet - Current Question �� ������� ������. ������� ����� ���?
+[INFO ] 2023-07-23 21:06:30.535 GameServlet - Current Question �� ������ �����. ��������� �� ������ � ��������?
+[INFO ] 2023-07-23 21:06:31.034 GameServlet - Current Question �� �������� �� ������. �� ���?
+[INFO ] 2023-07-23 21:06:31.723 GameServlet - Current Question null
+[INFO ] 2023-07-23 21:06:41.606 GameServlet - Name: Volvo
+[INFO ] 2023-07-23 21:06:41.606 GameServlet - Current Question �� ������� ������. ������� ����� ���?
+[INFO ] 2023-07-23 21:06:42.631 GameServlet - Current Question �� ������ �����. ��������� �� ������ � ��������?
+[INFO ] 2023-07-23 21:06:42.823 GameServlet - Current Question �� �������� �� ������. �� ���?
+[INFO ] 2023-07-23 21:06:42.995 GameServlet - Current Question null
+[INFO ] 2023-07-23 21:16:23.021 GameServlet - Name: Людмила
+[INFO ] 2023-07-23 21:16:23.030 QuestionAndAnswerMap - Количество вопросов: 3
+[INFO ] 2023-07-23 21:16:23.031 GameServlet - Current Question Ты потерял память. Принять вызов НЛО?
+[INFO ] 2023-07-23 21:16:24.150 GameServlet - Current Question Ты принял вызов. Подняться на мостик к капитану?
+[INFO ] 2023-07-23 21:16:24.307 GameServlet - Current Question Ты поднялся на мостик. Ты кто?
+[INFO ] 2023-07-23 21:16:24.448 GameServlet - Current Question null
+[INFO ] 2023-07-23 21:18:59.905 GameServlet - Name: Людмила
+[INFO ] 2023-07-23 21:18:59.916 QuestionAndAnswerMap - Количество вопросов: 3
+[INFO ] 2023-07-23 21:18:59.917 GameServlet - Current Question Ты потерял память. Принять вызов НЛО?
+[INFO ] 2023-07-23 21:19:07.637 GameServlet - Current Question Ты принял вызов. Подняться на мостик к капитану?
+[INFO ] 2023-07-23 21:22:41.535 GameServlet - BadText null
+[INFO ] 2023-07-23 21:22:41.543 GameServlet - Name: Людмила
+[INFO ] 2023-07-23 21:22:41.546 QuestionAndAnswerMap - Количество вопросов: 3
+[INFO ] 2023-07-23 21:22:41.546 GameServlet - Current Question Ты потерял память. Принять вызов НЛО?
+[INFO ] 2023-07-23 21:22:43.297 GameServlet - BadText null
+[INFO ] 2023-07-23 21:22:43.297 GameServlet - Current Question Ты принял вызов. Подняться на мостик к капитану?
+[INFO ] 2023-07-23 21:22:44.382 GameServlet - BadText 1
+[INFO ] 2023-07-23 21:22:44.382 GameServlet - Current Question Ты поднялся на мостик. Ты кто?
+[INFO ] 2023-07-23 21:26:15.838 GameServlet - Игра начинается org.apache.catalina.session.StandardSessionFacade@30fd5217
+[INFO ] 2023-07-23 21:26:15.846 GameServlet - BadText null
+[INFO ] 2023-07-23 21:26:15.847 GameServlet - Name: Volvo
+[INFO ] 2023-07-23 21:26:15.850 QuestionAndAnswerMap - Количество вопросов: 3
+[INFO ] 2023-07-23 21:26:15.850 GameServlet - Current Question Ты потерял память. Принять вызов НЛО?
+[INFO ] 2023-07-23 21:26:17.669 GameServlet - Игра начинается org.apache.catalina.session.StandardSessionFacade@30fd5217
+[INFO ] 2023-07-23 21:26:17.669 GameServlet - BadText null
+[INFO ] 2023-07-23 21:26:17.669 GameServlet - Current Question Ты принял вызов. Подняться на мостик к капитану?
+[INFO ] 2023-07-23 21:26:18.617 GameServlet - Игра начинается org.apache.catalina.session.StandardSessionFacade@30fd5217
+[INFO ] 2023-07-23 21:26:18.617 GameServlet - BadText null
+[INFO ] 2023-07-23 21:26:18.617 GameServlet - Current Question Ты поднялся на мостик. Ты кто?
+[INFO ] 2023-07-23 21:26:19.494 GameServlet - Игра начинается org.apache.catalina.session.StandardSessionFacade@30fd5217
+[INFO ] 2023-07-23 21:26:19.494 GameServlet - BadText 1
+[INFO ] 2023-07-23 21:26:19.494 GameServlet - Current Question null
+[INFO ] 2023-07-23 21:26:20.627 GameServlet - Игра перезапущена
+[INFO ] 2023-07-23 21:28:14.776 GameServlet - Игровая сессия org.apache.catalina.session.StandardSessionFacade@2ee12d91
+[INFO ] 2023-07-23 21:28:14.785 GameServlet - BadText null
+[INFO ] 2023-07-23 21:28:14.786 GameServlet - Name: Людмила
+[INFO ] 2023-07-23 21:28:14.788 QuestionAndAnswerMap - Количество вопросов: 3
+[INFO ] 2023-07-23 21:28:14.789 GameServlet - Current Question Ты потерял память. Принять вызов НЛО?
+[INFO ] 2023-07-23 21:28:16.243 GameServlet - Игровая сессия org.apache.catalina.session.StandardSessionFacade@2ee12d91
+[INFO ] 2023-07-23 21:28:16.243 GameServlet - BadText null
+[INFO ] 2023-07-23 21:28:16.243 GameServlet - Current Question Ты принял вызов. Подняться на мостик к капитану?
+[INFO ] 2023-07-23 21:28:16.895 GameServlet - Игровая сессия org.apache.catalina.session.StandardSessionFacade@2ee12d91
+[INFO ] 2023-07-23 21:28:16.895 GameServlet - BadText null
+[INFO ] 2023-07-23 21:28:16.895 GameServlet - Current Question Ты поднялся на мостик. Ты кто?
+[INFO ] 2023-07-23 21:28:18.130 GameServlet - Игровая сессия org.apache.catalina.session.StandardSessionFacade@2ee12d91
+[INFO ] 2023-07-23 21:28:18.130 GameServlet - BadText null
+[INFO ] 2023-07-23 21:28:18.130 GameServlet - Current Question null
+[INFO ] 2023-07-23 21:28:19.794 GameServlet - Игра перезапущена

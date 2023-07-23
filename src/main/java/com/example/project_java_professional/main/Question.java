@@ -1,15 +1,24 @@
 package com.example.project_java_professional.main;
 
-import com.example.project_java_professional.main.Answer;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.ToString;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-import java.util.List;
-@AllArgsConstructor
+
 @Getter
 public class Question {
-    //private int number;
+
+    private static final Logger logger = LoggerFactory.getLogger(Question.class);
+    public Question(String text) {
+        if (text == null){
+            throw new IllegalArgumentException();
+        }
+        this.text = text;
+        logger.debug("Создание вопроса {}",text);
+    }
+
     private String text;
 
     public String toString() {

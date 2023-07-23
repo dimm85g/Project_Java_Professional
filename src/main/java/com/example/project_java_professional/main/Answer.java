@@ -1,14 +1,19 @@
 package com.example.project_java_professional.main;
 
-import lombok.Getter;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class Answer {
+    private static final Logger logger = LoggerFactory.getLogger(Answer.class);
+
     private final String text;
-
-    private String badAnswerText;
-
     public Answer(String text) {
+        if (text == null){
+            throw new IllegalArgumentException();
+        }
         this.text = text;
+        logger.debug("Создание ответа {}", text);
 
     }
 
